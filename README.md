@@ -1,29 +1,27 @@
-# Hi, I'm KaiZekai 👋
+<p align="center">
+  <img src="./assets/profile-banner.gif" alt="KaiZekai — growing toward full-stack development" width="100%" />
+</p>
 
-Student developer growing toward **Java backend** and **AI application development**.
+Student developer growing toward **full-stack development**, currently exploring **backend systems** and **AI applications** through small, practical projects.
 
-### Focus
+## Current direction
 
-- Backend development with Java and Spring Boot
-- Data and infrastructure fundamentals with MySQL, Redis, and Docker
-- AI application backends and agent integration
-- Small projects, steady practice, and clear documentation
+| Growing toward | Currently exploring |
+| --- | --- |
+| `Full-stack development` | `Java` · `Spring Boot` · `MySQL` · `Redis` · `Docker` · `AI application integration` |
 
-### Learning stack
+## Building habits
 
-[![Learning stack](https://skillicons.dev/icons?i=java,spring,mysql,redis,docker&theme=light)](https://skillicons.dev)
+- Strengthening development fundamentals before adding complexity.
+- Turning exercises into small, documented projects.
+- Keeping progress visible through clear commits and README files.
 
-### Currently
+## Learning archive
 
-- Strengthening Java and backend fundamentals
-- Practicing with Spring Boot, MySQL, Redis, and Docker
-- Exploring how backend services connect with AI models and agents
-- Keeping foundational exercises in [hello-world](https://github.com/KaiZekai/hello-world)
+### [hello-world](https://github.com/KaiZekai/hello-world)
 
-### GitHub activity
+A personal collection of programming-fundamentals exercises kept as part of the learning process.
 
-[![KaiZekai's GitHub stats](https://github-stats-extended.vercel.app/api?username=KaiZekai&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
+---
 
-### Connect
-
-Contact links will be added here when available.
+<sub>Learning in public, one useful step at a time.</sub>
